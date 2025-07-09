@@ -3,12 +3,12 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ### Weblink: [Live Website](https://rishavchanda.netlify.app)
 ## Some Images:
-<img width="450px;" src="images/portfolio1"/>
-<img width="450px;" src="images/portfolio2"/>
-<img width="450px;" src="images/portfolio3"/>
-<img width="450px;" src="images/portfolio4"/>
-<img width="450px;" src="images/portfolio5"/>
-<img width="450px;" src="images/portfolio6"/>
+<img width="450px;" src="https://raw.githubusercontent.com/OmkarNiphade/My_Portfolio/main/src/images/portfolio1.png"/>
+<img width="450px;" src="https://raw.githubusercontent.com/OmkarNiphade/My_Portfolio/main/src/images/portfolio2.png"/>
+<img width="450px;" src="https://raw.githubusercontent.com/OmkarNiphade/My_Portfolio/main/src/images/portfolio3.png"/>
+<img width="450px;" src="https://raw.githubusercontent.com/OmkarNiphade/My_Portfolio/main/src/images/portfolio4.png"/>
+<img width="450px;" src="https://raw.githubusercontent.com/OmkarNiphade/My_Portfolio/main/src/images/portfolio5.png"/>
+<img width="450px;" src="https://raw.githubusercontent.com/OmkarNiphade/My_Portfolio/main/src/images/portfolio6.png"/>
 
 
 ## Table of Contents
