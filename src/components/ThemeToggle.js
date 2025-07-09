@@ -102,7 +102,7 @@ const DesktopToggleWrapper = styled.div`
   right: 20px;
   z-index: 1000;
 
-  @media (max-width: 768px) {
+  @media (max-width: 1439px) {
     display: none;
   }
 `;
